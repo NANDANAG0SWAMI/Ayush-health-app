@@ -9,23 +9,31 @@
 
 ### 🏠 Home Dashboard
 *Daily vitals, wellness score, and curated health stories.*
+
+
 ![Home Screen - Top View](src/assets/img1.png)
-![Home Screen - Scroll View](./assets/img2.png)
+![Home Screen - Scroll View](src/assets/img2.png)
 
 ### 📍 Interactive Body Map
 *Tap-to-select regions and symptom logging.*
-![Body Map - Main View](./assets/img3.png)
-![Body Map - Symptom Modal](./assets/img4.png)
+
+
+![Body Map - Main View](src/assets/img3.png)
+![Body Map - Symptom Modal](src/assets/img4.png)
 
 ### 🤖 AYUSH Assistant
 *AI-powered holistic health companion.*
-![Chatbot - Greeting](./assets/img5.png)
-![Chatbot - Conversation](./assets/img6.png)
+
+
+![Chatbot - Greeting](src/assets/img5.png)
+![Chatbot - Conversation](src/assets/img6.png)
 
 ### 👨‍⚕️ Doctor Consultations
 *Connect with certified AYUSH practitioners.*
-![Doctors - List View](./assets/img7.png)
-![Doctors - Filtered View](./assets/doctor-image-2.png)
+
+
+![Doctors - List View](src/assets/img7.png)
+![Doctors - Filtered View](src/assets/doctor-image-2.png)
 
 ---
 
