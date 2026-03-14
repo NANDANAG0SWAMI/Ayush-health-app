@@ -9,7 +9,7 @@
 
 ### 🏠 Home Dashboard
 *Daily vitals, wellness score, and curated health stories.*
-![Home Screen - Top View](./assets/img1.png)
+![Home Screen - Top View](src/assets/img1.png)
 ![Home Screen - Scroll View](./assets/img2.png)
 
 ### 📍 Interactive Body Map
