@@ -33,7 +33,7 @@
 
 
 ![Doctors - List View](src/assets/img7.png)
-![Doctors - Filtered View](src/assets/doctor-image-2.png)
+
 
 ### ⚙️ Slide-Out Settings Drawer
 *Basic details, reminders and settings*
