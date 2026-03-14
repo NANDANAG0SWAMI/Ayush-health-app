@@ -1,6 +1,6 @@
 # AYUSH Health Tracker 🌿
 
-**AYUSH Health Tracker** is a beautifully crafted, mobile-first React application designed with a "Dark Luxury Wellness" aesthetic. It serves as a holistic health companion, integrating Ayurvedic principles, yoga, nutrition, and modern vital tracking into a single, intuitive interface.
+**AYUSH Health Tracker** is a beautifully crafted, mobile-first React application designed with a "Luxury Wellness" aesthetic. It serves as a holistic health companion, integrating Ayurvedic principles, yoga, nutrition, and modern vital tracking into a single, intuitive interface.
 
 ---
 
